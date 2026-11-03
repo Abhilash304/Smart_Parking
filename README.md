@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🅿️ Smart Parking Management System
 
 A beginner-friendly, full-stack parking management system built with **Spring Boot**, **Thymeleaf**, and **MySQL**. It allows users to book parking slots, auto-calculates billing, and provides an admin dashboard for slot management and revenue tracking.
@@ -344,3 +345,7 @@ Built as a learning project to demonstrate Spring Boot MVC with Thymeleaf and My
 ## 📝 License
 
 This project is for educational purposes. Free to use and modify.
+=======
+# Smart_Parking
+A full-stack Smart Parking Management System built using Java, Spring Boot, Spring Data JPA, Thymeleaf, and MySQL. Features include user registration and login, real-time parking slot availability, online slot booking, automated parking fee calculation, booking history, and an admin dashboard for managing parking slots and tracking revenue.
+>>>>>>> bc1a52518a1cfc6a0cad5c1c459199b8eab1a6f7
